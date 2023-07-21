@@ -36,11 +36,11 @@
     position: relative;
   }
   .card0 {
-    background: url("../images/channv.png") center center no-repeat;
+    background: url("channv.png") center center no-repeat;
     background-size: 300px;
   }
   .card0:hover {
-    background: url("../images/channv.png") left center no-repeat;
+    background: url("channv.png") left center no-repeat;
     background-size: 600px;
   }
   .card0:hover h2 {
@@ -51,11 +51,11 @@
     opacity: 1;
   }
   .card1 {
-    background: url("../images/meer.jpg") center center no-repeat;
+    background: url("meer.jpg") center center no-repeat;
     background-size: 300px;
   }
   .card1:hover {
-    background: url("../images/meer.jpg") left center no-repeat;
+    background: url("meer.jpg") left center no-repeat;
     background-size: 600px;
   }
   .card1:hover h2 {
@@ -66,11 +66,11 @@
     opacity: 1;
   }
   .card2 {
-    background: url("../images/assf.jpeg") center center no-repeat;
+    background: url("assf.jpeg") center center no-repeat;
     background-size: 300px;
   }
   .card2:hover {
-    background: url("../images/assf.jpeg") left center no-repeat;
+    background: url("assf.jpeg") left center no-repeat;
     background-size: 600px;
   }
   .card2:hover h2 {
@@ -81,11 +81,11 @@
     opacity: 1;
   }
   .card3 {
-    background: url("../images/milaap.jpg") center center no-repeat;
+    background: url("milaap.jpg") center center no-repeat;
     background-size: 300px;
   }
   .card3:hover {
-    background: url("../images/milaap.jpg") left center no-repeat;
+    background: url("milaap.jpg") left center no-repeat;
     background-size: 600px;
   }
   .card3:hover h2 {
@@ -96,11 +96,11 @@
     opacity: 1;
   }
   .card4 {
-    background: url("../images/nalsa.jpg") center center no-repeat;
+    background: url("nalsa.jpg") center center no-repeat;
     background-size: 300px;
   }
   .card4:hover {
-    background: url("../images/nalsa.jpg") left center no-repeat;
+    background: url("nalsa.jpg") left center no-repeat;
     background-size: 600px;
   }
   .card4:hover h2 {
@@ -111,11 +111,11 @@
     opacity: 1;
   }
   .card5 {
-    background: url("../images/wcd.png") center center no-repeat;
+    background: url("wcd.png") center center no-repeat;
     background-size: 300px;
   }
   .card5:hover {
-    background: url("../images/wcd.png") left center no-repeat;
+    background: url("wcd.png") left center no-repeat;
     background-size: 600px;
   }
   .card5:hover h2 {
@@ -126,11 +126,11 @@
     opacity: 1;
   }
   .card6 {
-    background: url("../images/pnmrf.png") center center no-repeat;
+    background: url("pnmrf.png") center center no-repeat;
     background-size: 300px;
   }
   .card6:hover {
-    background: url("../images/pnmrf.png") left center no-repeat;
+    background: url("pnmrf.png") left center no-repeat;
     background-size: 600px;
   }
   .card6:hover h2 {
@@ -141,11 +141,11 @@
     opacity: 1;
   }
   .card7 {
-    background: url("../images/mha.png") center center no-repeat;
+    background: url("mha.png") center center no-repeat;
     background-size: 300px;
   }
   .card7:hover {
-    background: url("../images/mha.png") left center no-repeat;
+    background: url("mha.png") left center no-repeat;
     background-size: 600px;
   }
   .card7:hover h2 {
